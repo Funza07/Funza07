@@ -1,27 +1,194 @@
 <h1 align="center">Hi 👋, I'm Bikram Tripathi</h1>
-<h3 align="center">An enthusiastic Indian Web, game, and Python developer who transforms concepts into code, code into impact, pixels into algorithms, and, one project at a time, builds the future.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=funza07&label=Profile%20views&color=0e75b6&style=flat" alt="funza07" /> </p>
+<h3 align="center">
+Computer Science Graduate | Software Developer | Web Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funza07" alt="funza07" /></a> </p>
-
-- 🌱 I’m currently learning **Frameworks & Libraries: MERN Stack (MongoDB, Express.js, React, Node.js), Godot Engine, Unity (C# basics) Web Development: Advanced JavaScript, Responsive Design, REST APIs Game Development: Logic-based puzzle design, sprite animation, game optimization AI/ML & Computer Vision: YOLOv8, Optical Flow, LSTM for video analysis Courses: Web Development with MERN Stack – tuteDude (2025) Python for Data Science and Machine Learning Bootcamp – Udemy (2022) Introduction to Large Language Models – Google (2023) Programming with C and C++ – Internshala (2023) Other Tools: Git & GitHub, OpenCV, Flask, Jupyter Notebook**
-
-- 👨‍💻 All of my projects are available at [tinyurl.com/youranimestop](tinyurl.com/youranimestop)
-
-- 📫 How to reach me **tripathbikram@gmail.com**
-
-- ⚡ Fun fact **Logic gates are more deadly than monsters in the games I've created 🕹️⚡ I can debug code more quickly than I can explain it to someone who isn't a programmer. Project success is directly impacted by my coffee-to-code ratio ☕💻. I've won contests in coding. and continue to overlook semicolons 🙃 Despite my ability to run long distances, I quickly run out of pushups 🏃‍♂️💨 As long as I'm creating something, I'm just as content creating websites, games, or AI models. In my opinion, algorithms and pixels can occasionally convey stories more effectively than words.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bikram-tripathi-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikram-tripathi-cse" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bikram_tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikram_tripathi" height="30" width="40" /></a>
+<p align="center">
+I build practical software projects using web technologies, backend logic, databases, IoT, and computer vision.
+Currently focused on full-stack development, clean code, and real-world project deployment.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Funza07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funza07&show_icons=true&locale=en&layout=compact" alt="funza07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funza07&show_icons=true&locale=en" alt="funza07" /></p>
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering, 2025  
+- 💻 Interested in Software Development, Web Development, IoT, and Computer Vision  
+- 🧠 Strong foundation in C, C++, Python, JavaScript, and problem-solving  
+- 🛠️ Building real-world projects using React, Node.js, Python, C++, PHP, MySQL, and .NET  
+- 🚀 Currently improving my full-stack development, backend logic, and deployment skills  
+- 📍 Based in India  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,php" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask,arduino" />
+</p>
+
+### Other Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,unity,godot" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Web Application
+**Tech Stack:** PHP, MySQL, MVC Architecture, HTML, CSS, JavaScript  
+
+A full-stack e-commerce web application with product catalog, cart, wishlist, checkout, user profile, address management, order tracking, and admin dashboard.
+
+**Key Highlights:**
+- Implemented custom MVC architecture for better code structure and maintainability
+- Built product catalog, cart, wishlist, checkout, and order modules
+- Added admin dashboard for product and order management
+- Used prepared statements, session handling, and input validation
+- Designed for deployment on Hostinger shared hosting
+
+---
+
+### 🪖 Smart Helmet: IoT Fall Detection System
+**Tech Stack:** Arduino, C++, MPU6050, Neo-6M GPS, SIM800L GSM  
+
+A wearable IoT-based safety device designed to detect accidents, sudden falls, and impact events, then automatically send emergency alerts with real-time location.
+
+**Key Highlights:**
+- Used MPU6050 sensor for fall and impact detection
+- Integrated Neo-6M GPS module to capture live coordinates
+- Used SIM800L GSM module to send SMS alerts
+- Implemented emergency call trigger within 7–8 seconds of impact detection
+- Focused on real-world road safety and accident response
+
+---
+
+### 🧩 Browser Extension for Accessibility
+**Tech Stack:** JavaScript, Web APIs, Face Recognition, Voice Commands  
+
+A Chrome extension designed to improve web accessibility for visually impaired users through voice-guided browsing assistance and automation.
+
+**Key Highlights:**
+- Created browser-based accessibility support using JavaScript and Web APIs
+- Added voice-guided browsing actions for easier web navigation
+- Integrated face recognition-based user identification
+- Automated common browsing workflows
+- Focused on assistive technology and inclusive software design
+
+---
+
+### 🚦 Accident Detection System
+**Tech Stack:** Python, YOLOv8, OpenCV  
+
+A computer vision project for real-time accident detection using CCTV/video input and deep learning.
+
+**Key Highlights:**
+- Used YOLOv8 for object detection
+- Worked with video preprocessing and model testing
+- Implemented model training and performance comparison strategies
+- Focused on real-world traffic safety and automation use cases
+- Strengthened Python and computer vision development skills
+
+---
+
+### 🚗 Car Showroom Management App
+**Tech Stack:** .NET, C#, Database  
+
+A desktop-based management system for handling car showroom inventory, sales, and customer records.
+
+**Key Highlights:**
+- Developed a desktop software solution for inventory and sales management
+- Implemented full CRUD operations
+- Integrated database-driven record management
+- Managed customer, sales, and inventory records
+- Focused on software architecture, usability, and structured backend logic
+
+---
+
+### 🌐 Personal Portfolio Website
+**Tech Stack:** React, HTML, CSS, Web Hosting  
+
+A responsive portfolio website created to showcase my projects, technical skills, achievements, and professional profile.
+
+**Key Highlights:**
+- Built using a component-based React structure
+- Designed responsive layouts for desktop and mobile
+- Hosted with a custom domain
+- Created to present projects professionally to recruiters
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Place — Esplendidez 2022, RIST Coding Competition  
+- 🥈 2nd Place — CodeFusion 2023, USTM Competitive Programming Event  
+- 🥇 1st Place — Kairos 2024, RIST Coding Competition  
+- 👨‍🏫 Head of Coding Club, RIST — 2024–2025  
+
+---
+
+## 📜 Certifications
+
+- Web Development with MERN Stack — tuteDude, 2025  
+- Python for Data Science and Machine Learning — Udemy, 2022  
+- Introduction to Large Language Models — Google, 2023  
+- Programming with C and C++ — Internshala, 2023  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Funza07&show_icons=true&theme=default&hide_border=true" alt="Bikram Tripathi GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Funza07&layout=compact&theme=default&hide_border=true" alt="Bikram Tripathi Top Languages" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Funza07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Funza07-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/bikram-tripathi-cse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bikram%20Tripathi-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://bikramtripathi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-bikramtripathi.com-FF7139?style=for-the-badge&logo=firefox" />
+  </a>
+  <a href="mailto:tripathbikram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tripathbikram%40gmail.com-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building practical software, improving every day, and turning ideas into working projects.</i>
+</p>
